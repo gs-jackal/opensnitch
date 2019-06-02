@@ -1,7 +1,4 @@
+*.sock
 *.pyc
-build
-dist
-*.egg-info
-.idea
-*.swp
-*.sw*
+*.profile
+rules
